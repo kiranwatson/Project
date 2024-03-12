@@ -1,5 +1,5 @@
-*.csharp linguist-detectable=true  
-*.java linguist-detectable=false  
-*.js linguist-detectable=false  
-*.html linguist-detectable=false  
-*.xml linguist-detectable=false 
+*.Python linguist-detectable=true  
+*.Jupyter Notebook linguist-detectable=true   
+*.Machine Learning linguist-detectable=true  
+*.Deep Learning linguist-detectable=true 
+*.pandas linguist-detectable=false  
