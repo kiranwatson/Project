@@ -1,5 +1,5 @@
 *.Python linguist-detectable=true  
-*.Jupyter Notebook linguist-detectable=true   
-*.Machine Learning linguist-detectable=true  
-*.Deep Learning linguist-detectable=true 
+*.JupyterNotebook linguist-detectable=true   
+*.MachineLearning linguist-detectable=true  
+*.DeepLearning linguist-detectable=true 
 *.pandas linguist-detectable=false  
